@@ -9,5 +9,5 @@ javac Vehicle.java
 Para ejecutar:
 
 ```
-java Vehicle
+java TestVehicle
 ```
